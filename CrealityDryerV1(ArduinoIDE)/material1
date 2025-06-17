@@ -1,0 +1,15 @@
+FF DF  7  0  0  0	ABS
+DF E7  F  0  0  0	ASA
+FD E5 F1  2  0  0	PETG
+FD  1  1  0  0  0	PC
+ED  F  1  0  0  0	PA
+FD E5  1  0  0  0	PET
+7D E1  F F4 E0  4	PLA-CF
+FD E5 F1  2 F5 E0	PETG-CF
+ED  F F5 E0  4  0	PA-CF
+7D E1  F  0  0  0	PLA
+E1 7D  B  0  0  0	TPU
+
+ED  D  1  0  0  0	PP
+FD  1  1  0  0  0	PC
+ED  F  1  0  0  0	PA
