@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "MegaSensors")(type "KiCad")(uri "${KIPRJMOD}/library/MegaSensors.kicad_sym")(options "")(descr ""))
+)
